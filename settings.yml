@@ -1,0 +1,4 @@
+excalidraw_url:
+  default: "https://excalidraw.com"
+  type: text
+  description: "URL of the Excalidraw tool."
