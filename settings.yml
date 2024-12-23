@@ -1,4 +1,7 @@
 excalidraw_url:
   default: "https://excalidraw.com"
-  type: text
-  description: "URL of the Excalidraw tool."
+  type: enum
+  choices:
+    - "https://excalidraw.com"
+    - "https://your-custom-excalidraw-instance.com"
+  description: "Choose the Excalidraw URL to use."
